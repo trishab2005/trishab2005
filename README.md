@@ -20,9 +20,9 @@
 ### 💫 About Me
 
 - 💭 I may be slow to respond, but never slow to learn.
-- 🧑‍🎓 Undergraduate Computer Science student who enjoys solving backend problems and understanding how systems work. [memory:5]
+- 🧑‍🎓 Undergraduate Computer Science student who enjoys solving backend problems and understanding how systems work. 
 - ☕ Backend developer working with **Java**, **Spring Boot**, and **basic microservices**.
-- 🎯 Goal: Build scalable, clean, and testable backend services and grab a strong backend internship opportunity. [conversation_history:11]
+- 🎯 Goal: Build scalable, clean, and testable backend services and grab a strong backend internship opportunity. 
 
 ---
 
@@ -59,17 +59,17 @@
 
 ### 🔭 What I'm Working On
 
-- 🧬 Building **REST APIs** with proper `@OneToMany` / `@ManyToOne` relationships using Spring Boot, JPA, and Hibernate. [conversation_history:9]
-- 🌐 Exploring **microservices** patterns like service discovery with **Netflix Eureka Server**. [conversation_history:10]
-- 📚 Improving Java skills: lambdas, streams, and writing better Javadoc and documentation. [memory:6]
-- 🗄 Strengthening database design, SQL, and PL/SQL by practicing university-style problems. [memory:8]
+- 🧬 Building **REST APIs** with proper `@OneToMany` / `@ManyToOne` relationships using Spring Boot, JPA, and Hibernate. 
+- 🌐 Exploring **microservices** patterns like service discovery with **Netflix Eureka Server**. 
+- 📚 Improving Java skills: lambdas, streams, and writing better Javadoc and documentation. 
+- 🗄 Strengthening database design, SQL, and PL/SQL by practicing university-style problems. 
 
 ---
 
 ### 📂 Featured Backend Projects
 
 - 🧩 **Spring Boot One-to-Many REST API**  
-  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency. [conversation_history:9]  
+  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency. 
   ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post` (add as a clickable link in Markdown when you like)
 
 - 🌍 **Netflix Eureka Server**  
@@ -103,11 +103,11 @@
   <a href="https://github.com/trishab2005">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- When you create LinkedIn or portfolio, add buttons like these:
-  <a href="YOUR_LINKEDIN_URL">
+  <!-- When you create LinkedIn or portfolio, add buttons like these:-->
+  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20profile_d.c_tid.kwd-10521864172_n.g_mt.e_geo.1007828">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  -->
+  
 </p>
 
 > ⭐ If you like my work, consider starring a repo.  
