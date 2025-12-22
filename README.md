@@ -1,11 +1,23 @@
 <!-- Profile README for @trishab2005 -->
 
+<!-- 🌈 Animated Emoji Banner -->
+<p align="center">
+  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f680.svg" alt="Rocket" width="70" />
+  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f4bb.svg" alt="Laptop" width="70" />
+  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f9e0.svg" alt="Brain" width="70" />
+  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f41b.svg" alt="Bug" width="70" />
+  <img src="https://animated-fluent-emoji.vercel.app/emoji/2728.svg" alt="Sparkles" width="70" />
+</p>
+
 <h1 align="center">
   Hey there, I'm Trisha 👋
 </h1>
 
+<!-- ⌨️ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%26+Microservices+Enthusiast;Always+debugging...+and+learning+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%26+Microservices+Enthusiast;Database+%26+PL%2FSQL+Learner;Always+debugging...+and+learning+💻" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -13,13 +25,13 @@
 ### 💫 About Me
 
 - 💭 I may be slow to respond, but never slow to learn.
-- 🧑‍🎓 Undergraduate CSE student exploring backend development and system design.
-- ☕ Backend dev working with **Java**, **Spring Boot**, and **microservices basics**.
-- 🎯 Goal: Build scalable APIs, write clean code, and crack a solid backend internship.
+- 🧑‍🎓 Undergraduate Computer Science student who enjoys solving backend problems and understanding how systems work. [memory:5]
+- ☕ Backend developer working with **Java**, **Spring Boot**, and **basic microservices**.
+- 🎯 Goal: Build scalable, clean, and testable backend services and grab a strong backend internship opportunity. [conversation_history:11]
 
 ---
 
-### 🧠 Tech & Tools I Use
+### 🧠 Tech & Tools
 
 #### 👩‍💻 Languages
 
@@ -52,25 +64,29 @@
 
 ### 🔭 What I'm Working On
 
-- 🧬 Building **REST APIs** with proper `@OneToMany` / `@ManyToOne` relationships in Spring Boot.
-- 🌐 Exploring **microservices** architecture using **Netflix Eureka Server** for service discovery.
-- 📚 Improving Java skills: streams, lambdas, and better documentation with Javadoc.
+- 🧬 Building **REST APIs** with proper `@OneToMany` / `@ManyToOne` relationships using Spring Boot, JPA, and Hibernate. [conversation_history:9]
+- 🌐 Exploring **microservices** patterns like service discovery with **Netflix Eureka Server**. [conversation_history:10]
+- 📚 Improving Java skills: lambdas, streams, and writing better Javadoc and documentation. [memory:6]
+- 🗄 Strengthening database design, SQL, and PL/SQL by practicing university-style problems. [memory:8]
 
 ---
 
 ### 📂 Featured Backend Projects
 
 - 🧩 **Spring Boot One-to-Many REST API**  
-  A Spring Boot REST API showcasing a clean one-to-many entity relationship using JPA/Hibernate, with proper CRUD endpoints and relational mappings for real-world backend design.
+  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency. [conversation_history:9]  
+  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post` (add as a clickable link in Markdown when you like)
 
 - 🌍 **Netflix Eureka Server**  
-  A service registry for microservices, allowing dynamic discovery of Spring Boot services, enabling load balancing and fault tolerance in a distributed backend system.
+  A service registry for microservices that lets different Spring Boot services register and discover each other dynamically, helping with load balancing and fault tolerance. [conversation_history:10]  
+  ➤ _Repo:_ `https://github.com/trishab2005/NETFLIX_EUREKA_SERVER`
 
-*(Link these bullets to your actual repositories once you add this README.)*
+> You can convert the repo URLs above into proper Markdown links like:  
+> `[Springboot-one-to-manyRestAPI_post](https://github.com/...)`.
 
 ---
 
-### 📊 GitHub Stats (Because Numbers Look Cool)
+### 📊 GitHub Fun Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=tokyonight" alt="Trisha's GitHub stats" />
@@ -89,15 +105,15 @@
 ### 🤝 Let’s Connect
 
 <p align="left">
-  <!-- Replace with your real links when ready -->
   <a href="https://github.com/trishab2005">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Example placeholders:
-  <a href="https://www.linkedin.com/in/your-link-here">
+  <!-- When you create LinkedIn or portfolio, add buttons like these:
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   -->
 </p>
 
-> ⭐ If you like my work, consider starring a repo. If you see something to improve, feel free to open an issue or PR!
+> ⭐ If you like my work, consider starring a repo.  
+> 🐞 If you spot an issue, feel free to open one – it helps me grow as a developer.
