@@ -12,9 +12,7 @@
 
 <!-- ⌨️ Typing Effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%26+Microservices+Enthusiast;Database+%26+PL%2FSQL+Learner;Always+debugging...+and+learning+💻" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%26+Microservices+Enthusiast;Always+debugging+and+learning" alt="Typing SVG">
 </p>
 
 ---
