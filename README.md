@@ -2,11 +2,8 @@
 
 <!-- 🌈 Animated Emoji Banner -->
 <p align="center">
-  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f680.svg" alt="Rocket" width="70" />
-  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f4bb.svg" alt="Laptop" width="70" />
-  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f9e0.svg" alt="Brain" width="70" />
-  <img src="https://animated-fluent-emoji.vercel.app/emoji/1f41b.svg" alt="Bug" width="70" />
-  <img src="https://animated-fluent-emoji.vercel.app/emoji/2728.svg" alt="Sparkles" width="70" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFuM3N0Yzh1MHZ3MnBheDVvdDd2ZXg5eXhpYzdvODRvc2Q0ZDRmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e6o5cU7EnY6SukAYsC/giphy.gif" />
+  
 </p>
 
 <h1 align="center">
