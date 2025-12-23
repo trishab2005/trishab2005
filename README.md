@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/Internshala-Profile-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Internshala Profile">
   </a>
 
-  <a href="trishabasak2005@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
