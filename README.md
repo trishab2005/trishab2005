@@ -70,10 +70,10 @@
 
 - 🧩 **Spring Boot One-to-Many REST API**  
   A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency. 
-  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post` (add as a clickable link in Markdown when you like)
+  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post` 
 
 - 🌍 **Netflix Eureka Server**  
-  A service registry for microservices that lets different Spring Boot services register and discover each other dynamically, helping with load balancing and fault tolerance. [conversation_history:10]  
+  A service registry for microservices that lets different Spring Boot services register and discover each other dynamically, helping with load balancing and fault tolerance.  
   ➤ _Repo:_ `https://github.com/trishab2005/NETFLIX_EUREKA_SERVER`
 
 > You can convert the repo URLs above into proper Markdown links like:  
