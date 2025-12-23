@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   
-  <a href="https://internshala.com/student/dashboard" target="_blank">
+  <a href="https://internshala.com/student/dashboard">
     <img src="https://img.shields.io/badge/Internshala-Profile-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Internshala Profile">
   </a>
 
