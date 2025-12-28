@@ -84,15 +84,15 @@
 ### 📊 GitHub Fun Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=tokyonight" alt="Trisha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=tokyonight" alt="Trisha's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=tokyonight" alt="Trisha's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=tokyonight" alt="Trisha's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
