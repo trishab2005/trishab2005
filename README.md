@@ -68,7 +68,7 @@
 
 ### 📂 Featured Backend Projects
 
-- 🧩 **AI-POWERED PERSONAL FINANCE TRACER**  
+- 👩‍💻 **AI-POWERED PERSONAL FINANCE TRACER**  
   A sophisticated full-stack financial management system that integrates Local Generative AI (Llama 3.1) with a robust Oracle 21c database. This application automates expense categorization and provides intelligent spending forecasts based on real-time data analysis.
   ➤ _Repo:_ `https://github.com/trishab2005/AI-Powered_Personal_Finance_and_Expense_Predictor.git` 
 
