@@ -36,11 +36,11 @@ class Trisha {
 
 ---
 
-### 🧠 Tech & Tools
+# 🧠 Tech & Tools
 
-#### 👩‍💻 Languages
+## <p align="center">👩‍💻 Languages</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,17 +48,17 @@ class Trisha {
   <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-#### 🏗 Frameworks & Libraries
+## <p align="center"> 🏗 Frameworks & Libraries</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-#### 🛠 Tools & Platforms
+## <p align="center"> 🛠 Tools & Platforms</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -67,7 +67,7 @@ class Trisha {
 
 ---
 
-### 🔭 What I'm Working On
+# 🔭 What I'm Working On
 
 - 🧬 Building **REST APIs** with proper `@OneToMany` / `@ManyToOne` relationships using Spring Boot, JPA, and Hibernate. 
 - 🌐 Exploring **microservices** patterns like service discovery with **Netflix Eureka Server**. 
@@ -76,49 +76,56 @@ class Trisha {
 
 ---
 
-### 📂 Featured Backend Projects
+# 📂 Featured Backend Projects
 
-- 👩‍💻 **AI-POWERED PERSONAL FINANCE TRACER**  
-  A sophisticated full-stack financial management system that integrates Local Generative AI (Llama 3.1) with a robust Oracle 21c database. This application automates expense categorization and provides intelligent spending forecasts based on real-time data analysis.
-  ➤ _Repo:_ `https://github.com/trishab2005/AI-Powered_Personal_Finance_and_Expense_Predictor.git` 
+- 🚗 **SMART PARKING ENGINE** ✨
+  
+  An intelligent parking management system designed to optimize parking allocation and streamline vehicle entry/exit processes. Built with a focus on automation, efficient slot tracking, and scalable backend architecture for real-world smart city applications.  
+  ➤ _Repo:_ `https://github.com/trishab2005/Smart-Parking-Engine.git`
 
+- 🤖 **AI AUTOMATION RESEARCH PROJECT** ✨
+  
+  A Python-based AI automation research project focused on reducing repetitive manual workflows using intelligent automation techniques. Explores automation pipelines, AI-driven task execution, and practical backend scripting solutions.  
+  ➤ _Repo:_ `https://github.com/trishab2005/ResearchProject_AI_Automation_Python.git`
 
-- 🧩 **Spring Boot One-to-Many REST API**  
-  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency. 
-  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post` 
+- 👩‍💻 **AI-POWERED PERSONAL FINANCE TRACER** ✨
+  
+  A sophisticated full-stack financial management system that integrates Local Generative AI (Llama 3.1) with a robust Oracle 21c database. This application automates expense categorization and provides intelligent spending forecasts based on real-time data analysis.  
+  ➤ _Repo:_ `https://github.com/trishab2005/AI-Powered_Personal_Finance_and_Expense_Predictor.git`
 
-- 🌍 **Netflix Eureka Server**  
+- 🧩 **SPRING BOOT 1->MANY REST API** ✨
+   
+  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency.  
+  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post`
+
+- 🌍 **NETFLIX EUREKA SERVER** ✨
+  
   A service registry for microservices that lets different Spring Boot services register and discover each other dynamically, helping with load balancing and fault tolerance.  
   ➤ _Repo:_ `https://github.com/trishab2005/NETFLIX_EUREKA_SERVER`
 
-> You can convert the repo URLs above into proper Markdown links like:  
-> `[Springboot-one-to-manyRestAPI_post](https://github.com/...)`.
+---
+
+> 💡 Tip: You can convert the repo URLs above into proper Markdown links for a cleaner look.
 
 ---
 
-### 📊 GitHub Fun Stats
+
+# 📊 GitHub Fun Stats
+
 
 <p align="center">
-  
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true"
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true"
-  />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true" />
 </p>
 
+
 ---
+
 # 📈 Most Used Languages
 
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true"
-  />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -130,9 +137,9 @@ class Trisha {
 
 ---
 
-### 🤝 Let’s Connect
+# 🤝 Let’s Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/trishab2005">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -163,9 +170,11 @@ class Trisha {
 </p>
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B2CBF&section=footer"/>
 </p>
+
 
 > ⭐ If you like my work, consider starring a repo.  
 > 🐞 If you spot an issue, feel free to open one – it helps me grow as a developer.
