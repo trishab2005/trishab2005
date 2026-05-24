@@ -13,11 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: trishab2005
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=39FF14&color_dots=#161B22,#2D133B,#5A189A,#7B2CBF,#9D4EDD
-      - uses: peaceiris/actions-gh-pages@v3
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=39FF14
+
+      - name: Push Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
