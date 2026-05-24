@@ -111,7 +111,7 @@ A full-stack finance management system integrating Local Generative AI (Llama 3.
 
 <td width="30%" valign="top">
 
-### 🧠 OpenAI + Spring AI Integration ✨
+### 🧠 OpenAI + Spring AI Integration Using Spring-4✨
 A modern Spring Boot application integrating OpenAI APIs with Spring AI for building intelligent AI-powered backend services, chatbot features, and automation workflows.
 
 🔗 [View Repository](https://github.com/trishab2005/OpenAI-Spring4.git)
