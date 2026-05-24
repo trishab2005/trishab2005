@@ -214,8 +214,9 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 ---
 # 🐍 Contribution Snake
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trishab2005/trishab2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/trishab2005/trishab2005/output/github-snake-dark.svg" />
 </p>
 
 ---
