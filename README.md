@@ -78,9 +78,9 @@ class Trisha {
 
 # 📂 Featured Backend Projects
 
-<table>
+<table width="85%" align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🚗 Smart Parking Engine ✨
 An intelligent parking management system focused on automated slot allocation, vehicle tracking, and scalable backend architecture for smart city applications.
@@ -89,7 +89,7 @@ An intelligent parking management system focused on automated slot allocation, v
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🤖 AI Automation Research Project ✨
 A Python-based AI automation project exploring intelligent workflow automation, backend scripting, and task optimization using AI-driven techniques.
@@ -100,7 +100,7 @@ A Python-based AI automation project exploring intelligent workflow automation, 
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 👩‍💻 AI-Powered Personal Finance Tracer ✨
 A full-stack finance management system integrating Local Generative AI (Llama 3.1) with Oracle 21c for expense categorization and spending prediction.
@@ -109,7 +109,7 @@ A full-stack finance management system integrating Local Generative AI (Llama 3.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🧠 OpenAI + Spring AI Integration ✨
 A modern Spring Boot application integrating OpenAI APIs with Spring AI for building intelligent AI-powered backend services, chatbot features, and automation workflows.
@@ -120,7 +120,7 @@ A modern Spring Boot application integrating OpenAI APIs with Spring AI for buil
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🧩 Spring Boot 1→Many REST API ✨
 A Spring Boot REST API demonstrating JPA/Hibernate one-to-many relationships with clean CRUD operations and validation handling.
@@ -129,7 +129,7 @@ A Spring Boot REST API demonstrating JPA/Hibernate one-to-many relationships wit
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🌍 Netflix Eureka Server ✨
 A service registry for Spring Boot microservices enabling service discovery, load balancing, and fault-tolerant communication.
