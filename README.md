@@ -38,7 +38,6 @@ class Trisha {
 # 🔥 Concepts
 
 <p align="left">
-
   <img src="https://img.shields.io/badge/Microservices-6A1B9A?style=for-the-badge"/>
   <br><br>
   <img src="https://img.shields.io/badge/REST%20APIs-8E24AA?style=for-the-badge"/>
@@ -50,6 +49,12 @@ class Trisha {
   <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-AB47BC?style=for-the-badge"/>
   <br><br>
   <img src="https://img.shields.io/badge/Backend%20Development-BA68C8?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/FastAPI-7C4DFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-8E44AD?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge"/>
 
 </p>
 
@@ -60,7 +65,7 @@ class Trisha {
 ## <p align="center">👩‍💻 Languages & LLMs</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,maven,python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,maven,python,tensorflow,fastapi" />
 </p>
 
 <p align="center">
@@ -74,7 +79,7 @@ class Trisha {
 ## <p align="center">⚒️ Tools And IDEs</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman,docker" />
 </p>
 
 #
@@ -91,7 +96,11 @@ class Trisha {
 ## <p align="center">🏗️ Frameworks & Libraries</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,react" />
+
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,react" height="55"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="50" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="50" style="vertical-align: middle;"/>
+
 </p>
 
 ---
