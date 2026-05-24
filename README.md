@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%26+Microservices+Enthusiast;Always+debugging+and+learning" alt="Typing SVG">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B2CBF&section=footer"/>
 
 # 💜 About Me
 
@@ -35,34 +35,63 @@ class Trisha {
 - ⚡ Fun fact: I debug more than I sleep
 
 ---
+# 🔥 Concepts
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Microservices-6A1B9A?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/REST%20APIs-8E24AA?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Spring%20AI-7B1FA2?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/OpenAI%20Integration-9C27B0?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-AB47BC?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Backend%20Development-BA68C8?style=for-the-badge"/>
+
+</p>
+
+---
 
 # 🧠 Tech & Tools
 
-## <p align="center">👩‍💻 Languages</p>
+## <p align="center">👩‍💻 Languages & LLMs</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,maven,python,tensorflow" />
 </p>
 
-## <p align="center"> 🏗 Frameworks & Libraries</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img height="45" src="https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png"/>
+  <img height="45" src="https://cdn.simpleicons.org/x/white"/>
+  <img height="45" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png"/>
 </p>
 
-## <p align="center"> 🛠 Tools & Platforms</p>
+#
+
+## <p align="center">⚒️ Tools And IDEs</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+</p>
+
+#
+
+## <p align="center">🕋 Databases</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+  <img height="48" src="https://dbdb.io/media/logos/h2-logo.svg" />
+
+#
+
+## <p align="center">🏗️ Frameworks & Libraries</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,react" />
 </p>
 
 ---
