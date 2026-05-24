@@ -17,12 +17,22 @@
 
 ---
 
-### 💫 About Me
+# 💜 About Me
+
+```java
+class Trisha {
+    String role = "Backend Developer";
+    String[] skills = {"Java", "Spring Boot", "REST APIs", "Microservices"};
+    String currentFocus = "Building scalable backend systems";
+}
+```
 
 - 💭 I may be slow to respond, but never slow to learn.
-- 🧑‍🎓 Undergraduate Computer Science student who enjoys solving backend problems and understanding how systems work. 
-- ☕ Backend developer working with **Java**, **Spring Boot**, and **basic microservices**.
-- 🎯 Goal: Build scalable, clean, and testable backend services and grab a strong backend internship opportunity. 
+- 💻 Passionate about backend development & scalable systems
+- 🧑‍🎓 Undergraduate Computer Science student who enjoys solving backend problems and understanding how systems work.
+- 🌱 Currently learning Microservices & Advanced Spring Boot
+- 🎯 Goal: Build scalable, clean, and testable backend services and grab a strong backend internship opportunity.
+- ⚡ Fun fact: I debug more than I sleep
 
 ---
 
@@ -89,15 +99,33 @@
 ### 📊 GitHub Fun Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=tokyonight" alt="Trisha's GitHub stats"/>
+  
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true"
+  />
+
+  <img 
+    height="170" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true"
+  />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=tokyonight" alt="Trisha's GitHub streak"/>
-</p>
+---
+# 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true"
+  />
+</p>
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trishab2005/trishab2005/output/github-contribution-grid-snake.svg" alt="Purple Snake Animation"/>
 </p>
 
 ---
@@ -124,8 +152,19 @@
     <img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
+</p>
 
+---
 
+# ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B2CBF&section=footer"/>
 </p>
 
 > ⭐ If you like my work, consider starring a repo.  
