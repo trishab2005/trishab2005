@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: trishab2005
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=39FF14&color_dots=#161B22,#0f3d0f,#146c14,#1faa1f,#39FF14
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=39FF14
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
