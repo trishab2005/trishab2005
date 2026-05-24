@@ -16,8 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: trishab2005
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39FF14
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39FF14
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
