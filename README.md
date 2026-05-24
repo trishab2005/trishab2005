@@ -78,34 +78,73 @@ class Trisha {
 
 # 📂 Featured Backend Projects
 
-- 🚗 **SMART PARKING ENGINE** ✨
-  
-  An intelligent parking management system designed to optimize parking allocation and streamline vehicle entry/exit processes. Built with a focus on automation, efficient slot tracking, and scalable backend architecture for real-world smart city applications.  
-  ➤ _Repo:_ `https://github.com/trishab2005/Smart-Parking-Engine.git`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🤖 **AI AUTOMATION RESEARCH PROJECT** ✨
-  
-  A Python-based AI automation research project focused on reducing repetitive manual workflows using intelligent automation techniques. Explores automation pipelines, AI-driven task execution, and practical backend scripting solutions.  
-  ➤ _Repo:_ `https://github.com/trishab2005/ResearchProject_AI_Automation_Python.git`
+### 🚗 Smart Parking Engine ✨
+An intelligent parking management system focused on automated slot allocation, vehicle tracking, and scalable backend architecture for smart city applications.
 
-- 👩‍💻 **AI-POWERED PERSONAL FINANCE TRACER** ✨
-  
-  A sophisticated full-stack financial management system that integrates Local Generative AI (Llama 3.1) with a robust Oracle 21c database. This application automates expense categorization and provides intelligent spending forecasts based on real-time data analysis.  
-  ➤ _Repo:_ `https://github.com/trishab2005/AI-Powered_Personal_Finance_and_Expense_Predictor.git`
+🔗 [View Repository](https://github.com/trishab2005/Smart-Parking-Engine.git)
 
-- 🧩 **SPRING BOOT 1->MANY REST API** ✨
-   
-  A Spring Boot REST API demonstrating a one-to-many entity relationship with JPA/Hibernate, providing clean CRUD endpoints while maintaining parent–child consistency.  
-  ➤ _Repo:_ `https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post`
+</td>
 
-- 🌍 **NETFLIX EUREKA SERVER** ✨
-  
-  A service registry for microservices that lets different Spring Boot services register and discover each other dynamically, helping with load balancing and fault tolerance.  
-  ➤ _Repo:_ `https://github.com/trishab2005/NETFLIX_EUREKA_SERVER`
+<td width="50%" valign="top">
 
----
+### 🤖 AI Automation Research Project ✨
+A Python-based AI automation project exploring intelligent workflow automation, backend scripting, and task optimization using AI-driven techniques.
 
-> 💡 Tip: You can convert the repo URLs above into proper Markdown links for a cleaner look.
+🔗 [View Repository](https://github.com/trishab2005/ResearchProject_AI_Automation_Python.git)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍💻 AI-Powered Personal Finance Tracer ✨
+A full-stack finance management system integrating Local Generative AI (Llama 3.1) with Oracle 21c for expense categorization and spending prediction.
+
+🔗 [View Repository](https://github.com/trishab2005/AI-Powered_Personal_Finance_and_Expense_Predictor.git)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 OpenAI + Spring AI Integration ✨
+A modern Spring Boot application integrating OpenAI APIs with Spring AI for building intelligent AI-powered backend services, chatbot features, and automation workflows.
+
+🔗 [View Repository](https://github.com/trishab2005/OpenAI-Spring4.git)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Spring Boot 1→Many REST API ✨
+A Spring Boot REST API demonstrating JPA/Hibernate one-to-many relationships with clean CRUD operations and validation handling.
+
+🔗 [View Repository](https://github.com/trishab2005/Springboot-one-to-manyRestAPI_post)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 Netflix Eureka Server ✨
+A service registry for Spring Boot microservices enabling service discovery, load balancing, and fault-tolerant communication.
+
+🔗 [View Repository](https://github.com/trishab2005/NETFLIX_EUREKA_SERVER)
+
+</td>
+</tr>
+</table>
+
+
+> 💡 Tip: To make your project links cleaner and clickable, convert them into Markdown links like this:  
+> `[Project Name](https://github.com/your-repo-link)`  
+> Example:  
+> `[Smart Parking Engine](https://github.com/trishab2005/Smart-Parking-Engine.git)`
 
 ---
 
