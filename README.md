@@ -37,26 +37,25 @@ class Trisha {
 ---
 # 🔥 Concepts
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microservices-6A1B9A?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/REST%20APIs-8E24AA?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Spring%20AI-7B1FA2?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/OpenAI%20Integration-9C27B0?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-AB47BC?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Backend%20Development-BA68C8?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-7C4DFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-8E44AD?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge"/>
+<div style="width:100%;">
 
-</p>
+<img align="right" width="470"
+src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+<div style="max-width:55%;">
+
+<img src="https://img.shields.io/badge/Microservices-6A1B9A?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/REST%20APIs-8E24AA?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Spring%20AI-7B1FA2?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/OpenAI%20Integration-9C27B0?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-AB47BC?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Backend%20Development-BA68C8?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/FastAPI-7C4DFF?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge"/>
+
+</div>
+</div>
 
 ---
 
@@ -113,10 +112,13 @@ class Trisha {
 - 🧠 Experimenting with **FastAPI**, **Streamlit**, and local LLM frameworks like **Ollama** for AI integrations and rapid prototyping.
 - 🗄️ Strengthening backend fundamentals through advanced **SQL**, **PL/SQL**, **Oracle 21c**, and **H2 Database** practice while improving database design skills.
 - 📚 Continuously improving **Java**, backend engineering, clean code practices, and developer tooling through hands-on project building.
+<br>
 
 ---
 
 # 📂 Featured FullStack and Backend Projects
+
+<br>
 
 <table width="85%" align="center">
 <tr>
@@ -179,12 +181,14 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 </td>
 </tr>
 </table>
-
+<br>
 
 > 💡 Tip: To make your project links cleaner and clickable, convert them into Markdown links like this:  
 > `[Project Name](https://github.com/your-repo-link)`  
 > Example:  
 > `[Smart Parking Engine](https://github.com/trishab2005/Smart-Parking-Engine.git)`
+
+<br>
 
 ---
 
@@ -218,6 +222,7 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 # 🤝 Let’s Connect
 
+<br>
 <p align="center">
   <a href="https://github.com/trishab2005">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
