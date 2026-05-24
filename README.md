@@ -76,7 +76,7 @@ class Trisha {
 
 ---
 
-# 📂 Featured Backend Projects
+# 📂 Featured FullStack and Backend Projects
 
 <table width="85%" align="center">
 <tr>
