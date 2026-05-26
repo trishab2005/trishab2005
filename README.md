@@ -193,7 +193,7 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 ---
 
-### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+# ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </div>
