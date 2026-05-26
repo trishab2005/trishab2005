@@ -203,10 +203,10 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=39FF14&text_color=ffffff" height="170"/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=C77DFF" height="170"/>
+</p>
 
 ---
 
@@ -214,7 +214,10 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff"
+    height="170"
+  />
 </p>
 
 ---
