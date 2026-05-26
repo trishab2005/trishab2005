@@ -202,11 +202,27 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 # 📊 GitHub Fun Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
+<table align="center">
+<tr>
+<td align="center">
   
-  <img src="https://streak-stats.demolab.com?user=trishab2005&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=trishab2005&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFFFFF&bg_color=000000&title_color=9D4EDD&icon_color=39FF14&text_color=00F5FF"
+height="170"
+/>
+
+</td>
+
+<td align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=trishab2005&theme=tokyonight&hide_border=false&border=FFFFFF&background=000000&ring=39FF14&fire=39FF14&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=FFFFFF"
+height="170"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
