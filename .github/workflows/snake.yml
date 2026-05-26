@@ -19,13 +19,13 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3.1.0
+        uses: actions/checkout@v4
+
+      - name: Generate snake gif
+        uses: coderaiser/github-action-gif@v1.1.18
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          outputs: |
-            dist/github-snake.svg?color_snake=%2339FF14&color_dots=%23161B22,%232D133B,%235A189A,%237B2CBF,%23C77DFF
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2339FF14&color_dots=%23161B22,%232D133B,%235A189A,%237B2CBF,%23C77DFF
+          gif_out_path: dist/github-snake.gif
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
