@@ -192,6 +192,13 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 ---
 
+### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</div>
+
+---
+
 # 📊 GitHub Fun Stats
 
 
@@ -214,7 +221,7 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trishab2005/trishab2005/output/github-snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/trishab2005/trishab2005/output/github-snake-dark.svg" />
 </p>
 
 ---
