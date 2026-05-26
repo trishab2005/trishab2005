@@ -89,6 +89,7 @@ src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
   <img height="48" src="https://dbdb.io/media/logos/h2-logo.svg" />
+</p>
 
 #
 
@@ -201,21 +202,19 @@ A service registry for Spring Boot microservices enabling service discovery, loa
 
 # 📊 GitHub Fun Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=39FF14&text_color=ffffff" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishab2005&theme=midnight-purple&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=C77DFF" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trishab2005&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=trishab2005&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 ---
 
 # 📈 Most Used Languages
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trishab2005&layout=compact&theme=midnight-purple"
     height="170"
   />
 </p>
