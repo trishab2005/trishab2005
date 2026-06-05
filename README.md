@@ -64,6 +64,7 @@ I am consistently working to sharpen my algorithmic thinking and optimize logic 
     </td>
   </tr>
 </table>
+<br>
 
 ---
 
