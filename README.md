@@ -36,7 +36,9 @@ class Trisha {
 
 ---
 
-## 🏆 Algorithmic Problem Solving ->( 10 Days Challenge 💪🏻 )
+# 🏆 Algorithmic Problem Solving ->( 10 Days Challenge 💪🏻 )
+
+<br>
 
 I am consistently working to sharpen my algorithmic thinking and optimize logic to build scalable backend systems. Recently, I challenged myself to an intensive coding sprint and successfully solved **100 LeetCode problems in just 10 days**. This focus directly translates to writing cleaner, more efficient code for robust data pipelines and Java applications.
 
