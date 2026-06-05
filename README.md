@@ -35,6 +35,36 @@ class Trisha {
 - ⚡ Fun fact: I debug more than I sleep
 
 ---
+
+## 🏆 Algorithmic Problem Solving ->( 10 Days Challenge 💪🏻 )
+
+I am consistently working to sharpen my algorithmic thinking and optimize logic to build scalable backend systems. Recently, I challenged myself to an intensive coding sprint and successfully solved **100 LeetCode problems in just 10 days**. This focus directly translates to writing cleaner, more efficient code for robust data pipelines and Java applications.
+
+<table border="0">
+  <tr>
+    <td align="left" valign="top" width="80%">
+      <!-- Decreased size screenshot with alt text -->
+      <img width="1500" height="422" alt="WhatsApp Image 2026-06-06 at 00 11 34" src="https://github.com/user-attachments/assets/d63624f7-e4d8-4e30-89c9-2463468fdfc3"/>
+<br>
+    </td>
+    <td align="left" valign="top" style="padding-left: 20px;">
+      <b>Sprint Breakdown:</b>
+      <ul>
+        <li>🟢 Easy: 48</li>
+        <li>🟡 Medium: 51</li>
+        <li>🔴 Hard: 1</li>
+      </ul>
+      <br>
+      <!-- LeetCode Profile Button Link -->
+      <a href="https://leetcode.com/u/trishabasak/">
+        <img src="https://img.shields.io/badge/View_Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 🔥 Concepts
 
 <div style="width:100%;">
