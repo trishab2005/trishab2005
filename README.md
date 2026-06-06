@@ -289,14 +289,6 @@ height="170"
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20profile_d.c_tid.kwd-10521864172_n.g_mt.e_geo.1007828">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/trisha_b_2005">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  
-  <a href="https://internshala.com/student/dashboard">
-    <img src="https://img.shields.io/badge/Internshala-Profile-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Internshala Profile">
-  </a>
-
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
